@@ -1,6 +1,6 @@
 # Expense Tracker App
 
-[A brief description of your project: What it does, what technologies it uses, etc. Mention that the frontend is pre-built and served by the Python backend or accessible via [URL/method].]
+This project is a basic web application designed to help users track their expenses. It offers a straightforward interface for adding spending data and aims to provide real-time updates without needing page refreshes. Currently, the user can add, remove, and view their expenses. There is an additional page for users to view their total spending, however, the feature is not complete.
 
 ## Prerequisites
 
