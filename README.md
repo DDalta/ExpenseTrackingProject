@@ -36,5 +36,14 @@ Before you begin, ensure you have the following installed:
 4.  **Install Python dependencies:**
     Ensure your `requirements.txt` file is in the current directory (or specify the path).
     ```bash
-    pip install -r requirements.txt
+    pip install -r backend/requirements.txt
     ```
+## Starting the Backend Server
+
+1.  **Ensure your Python virtual environment is activated.**
+2.  **Run the Flask application:**
+    ```bash
+    python backend/app.py
+    ```
+    The backend server will typically start on `http://127.0.0.1:5000/` . Check your Flask configuration for the exact host and port.
+3. **Go to the address on your browser**
