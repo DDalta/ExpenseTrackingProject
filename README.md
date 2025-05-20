@@ -43,7 +43,11 @@ Before you begin, ensure you have the following installed:
 1.  **Ensure your Python virtual environment is activated.**
 2.  **Run the Flask application:**
     ```bash
+    # For Windows
     python backend/app.py
+    
+    # For macOS and Linux
+    python3 backend/app.py
     ```
     The backend server will typically start on `http://127.0.0.1:5000/` . Check your Flask configuration for the exact host and port.
 3. **Go to the address on your browser**
