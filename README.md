@@ -19,7 +19,7 @@ Before you begin, ensure you have the following installed:
 
 2.  **Navigate to the backend directory (if applicable):**
     ```bash
-    # cd backend
+    cd backend
     ```
 
 3.  **Create and activate a virtual environment (recommended):**
