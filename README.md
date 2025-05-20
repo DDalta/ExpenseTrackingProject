@@ -13,15 +13,13 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [your-repository-url]
-    cd [your-project-directory]
+    git clone https://github.com/DDalta/ExpenseTrackingProject.git
+    cd ExpenseTrackingProject
     ```
-    *(If your project has separate backend/frontend folders, ensure you navigate to the main project directory or the backend directory as appropriate for the following steps.)*
 
 2.  **Navigate to the backend directory (if applicable):**
     ```bash
-    # Example: cd backend
-    # If your app.py and requirements.txt are in the root, you can skip this.
+    # cd backend
     ```
 
 3.  **Create and activate a virtual environment (recommended):**
